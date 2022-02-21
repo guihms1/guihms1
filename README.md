@@ -1,3 +1,5 @@
-Oi pessoal, me chamo Luís Guilherme e sou um engenheiro de software com foco no back-end. Atuo com PHP/Laravel a mais de 4 anos, mas também já atuei com VB6, VB.NET e desenvolvimento front-end com HTML5, CSS3, SASS, JavaScript (ES6+) e um pouquinho de ReactJS.
+Software Engineer passionated for software development with 7+ years of experience building applications, mostly with PHP (CodeIgniter/Laravel/Lumen), JS (ES6+), SASS, Visual Basic, also interested in NodeJS and the javascript ecosystem.
+Interested in clean code, clean architecture, design patterns and other stuffs that drives us to the same direction: built great, organized and scalable applications.
+Also experienced in team leadership and passionate in help others grow.
 
 
